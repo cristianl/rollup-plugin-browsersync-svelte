@@ -1,0 +1,11 @@
+{
+  "name": "rollup-plugin-browsersync-svelte",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Cristian Lorsson <cristian@cristian.im>",
+  "description": "Browsersync for Svelte components, with CSS injection",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.26.5"
+  }
+}
